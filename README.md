@@ -137,7 +137,7 @@ python3 make_reader.py reviews_5384548/reviews_unique.csv -o reader.html --title
 
 ## Author
 
-Jiayi Zhang, University of California, Los Angeles. Developed with assistance from Claude (Anthropic).
+Jiayi Zhang, University of California, Los Angeles.
 
 ## License
 
